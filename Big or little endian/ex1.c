@@ -1,5 +1,5 @@
 /*
- *216590215 Hadas Berger
+ *Hadas Berger
  */
 
 #include "ex1.h"
