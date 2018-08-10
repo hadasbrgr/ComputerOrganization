@@ -1,4 +1,4 @@
-	#316590215 hadas berger	
+# hadas berger	
 	.section	.rodata		# read-only data section
 .formatScanf:
 	.string	"%d"
