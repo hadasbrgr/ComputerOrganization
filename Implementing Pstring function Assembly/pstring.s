@@ -1,4 +1,4 @@
-	#316590215 hadas berger	
+# hadas berger	
 	#This is a pstring.s that contain functions
 	.section	.rodata		#read only data section
 .errormsg:

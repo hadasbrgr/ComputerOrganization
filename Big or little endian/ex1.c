@@ -1,5 +1,9 @@
 /*
+<<<<<<< HEAD
  *Hadas Berger
+=======
+ * Hadas Berger
+>>>>>>> 1e5a0937aa3c111398ec5c7a0786675cfcd0ad9e
  */
 
 #include "ex1.h"
